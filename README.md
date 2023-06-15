@@ -15,7 +15,7 @@ VMwareRemote DOES NOT let you remote control a running VM, for that you may want
 - [X] VM Editing
 - [X] Enabling VNC
 - [X] Running VMware Player VMs
-- [ ] Decent look
+- [X] Decent look
 - [ ] Automatic Updater
 
 ## Compatibility
